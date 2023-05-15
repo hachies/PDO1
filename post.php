@@ -7,7 +7,7 @@
     <title>opdracht 1 // week 1</title>
 </head>
 <body>
-    <form method="POST" action="een.php">
+    <form method="POST" action="post.php">
         <label>Naam</label><br>
         <input type="text" name="naam"><br>
         <label>Achternaam</label><br>
